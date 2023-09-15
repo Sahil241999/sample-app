@@ -1,0 +1,15 @@
+.header {
+    height: 8vh;
+    background-color: white;
+    display: flex;
+    gap: 2vw;
+    align-items: center;
+    justify-content:center
+}
+
+#search {
+    height: 5vh;
+    width: 55vw;
+    border-radius: 20px;
+    text-align: center;
+}

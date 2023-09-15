@@ -1,0 +1,32 @@
+.content {
+    background-color: white;
+    height: 90vh;
+    width: 83vw;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    margin-left: 31vh;
+}
+
+#blu-btn {
+    height: 30px;
+    width: 100px;
+    color: white;
+    background-color: rgb(154, 91, 91);
+    border-color: white;
+    border-radius: 10px;
+}
+
+.prod-g {
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    gap: 2vw;
+}
+
+.prod-p {
+    height: 15px;
+    width: 10px;
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    gap: 2vw;
+}
